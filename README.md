@@ -1,7 +1,9 @@
 # IBME-QUBIC
 
-Quantitative Biomedical Imaging group at the University of Oxford
-Institute of Biomedical Engineering.
+Quantitative Biomedical Inference group at the University of Oxford
+Institute of Biomedical Engineering. The QuBIc group applies inference 
+(estimation) techniques from information engineering to biomedical data, 
+primarily with a view to clinical application.
 
 ## Projects and Documentation
 
