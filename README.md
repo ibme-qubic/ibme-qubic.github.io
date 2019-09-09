@@ -1,10 +1,8 @@
-# IBME QuBIc group
+# IBME QuBIc group - project documentation
 
 The Quantitative Biomedical Inference group (QuBIc) at the University of Oxford
 applies inference techniques from information engineering to biomedical data, 
 primarily with a view to clinical application.
-
-## Project documentation
 
 ### Fabber
 
@@ -21,17 +19,6 @@ algorithm to do fast model fitting of nonlinear forward models.
  - [fabber_matlab](https://fabber-matlab.readthedocs.io) is a simple Matlab interface
    to Fabber
  
-### Quantiphyse
-
-Quantiphyse is a GUI viewing and analysis package for biomedical imaging data. 
-As well as generic visualisation and processing functionality, it contains a set of
-plugins for processing specific kinds of imaging data including ASL, DCE, CEST, DSC
-and quantitative BOLD.
-
-- [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
-  repositories contain various plugins however documentation for these is kept
-  centrally.
-  
 ### Processing pipelines
 
 These are FSL-based pipelines for processing different types of medical imaging data.
@@ -45,3 +32,14 @@ processing specific to the data type.
    and also supporting multiphase and vessel-encoded ASL data.
  - [verbena](https://verbena.readthedocs.io) is a pipeline for processing 
    DSC data.
+   
+### Quantiphyse
+
+Quantiphyse is a GUI viewing and analysis package for biomedical imaging data. 
+As well as generic visualisation and processing functionality, it contains a set of
+plugins for processing specific kinds of imaging data including ASL, DCE, CEST, DSC
+and quantitative BOLD.
+
+- [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
+  repositories contain various plugins however documentation for these is kept
+  centrally.
