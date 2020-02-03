@@ -43,3 +43,16 @@ and quantitative BOLD.
 - [Quantiphyse](https://quantiphyse.readthedocs.io) is the main application. Other
   repositories contain various plugins however documentation for these is kept
   centrally.
+
+### SVB
+
+SVB is an implementation of Stochastic Variational Bayes for inferring on medical
+imaging timeseries data. It aims to solve the same problem as Fabber by an alternative
+means which may provide advantages in some cases.
+
+- [SVB](https://svb.readthedocs.io) is the main implementation currently containing exponential and ASL models
+
+### Tutorials
+
+ - [Variational Bayes Tutorial](https://vb_tutorial.readthedocs.io) contains interactive code
+   demonstrating simple implementations of Analytic and Stochastic variational Bayes.
