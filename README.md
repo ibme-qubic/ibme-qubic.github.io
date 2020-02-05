@@ -53,6 +53,17 @@ means which may provide advantages in some cases.
 - [SVB](https://svb.readthedocs.io) is the main implementation currently containing exponential and ASL models
 
 ### Tutorials
+   
+ - The [FSL course](https://fsl.fmrib.ox.ac.uk/fslcourse/) contains a practical session on
+   ASL-MRI processing using the Basil/Oxford ASL toolbox.
+   
+ - [Neuroimaging Primers](http://www.neuroimagingprimers.org/) is a series of short, accessible 
+   textbooks focused on MRI-based neuroimaging. Under `Example Boxes` you can find a set of interactive
+   tutorials on ASL-MRI data processing using the Basil/Oxford ASL toolbox.
 
  - [Variational Bayes Tutorial](https://vb_tutorial.readthedocs.io) contains interactive code
    demonstrating simple implementations of Analytic and Stochastic variational Bayes.
+
+ - Tutorials for DCE, qBOLD and ASL using Quantiphyse are included in the general 
+   [Quantiphyse documentation](https://quantiphyse.readthedocs.io)
+
