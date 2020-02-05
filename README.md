@@ -63,7 +63,7 @@ means which may provide advantages in some cases.
    textbooks focused on MRI-based neuroimaging. Under `Example Boxes` you can find a set of interactive
    tutorials on ASL-MRI data processing using the Basil/Oxford ASL toolbox.
 
- - [Variational Bayes Tutorial](https://vb_tutorial.readthedocs.io) contains interactive code
+ - The [Variational Bayes Tutorial](https://vb_tutorial.readthedocs.io) contains interactive code
    demonstrating simple implementations of Analytic and Stochastic variational Bayes.
 
  - Tutorials for DCE, qBOLD and ASL using Quantiphyse are included in the general 
