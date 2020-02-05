@@ -11,6 +11,8 @@ algorithm to do fast model fitting of nonlinear forward models.
 
  - [Fabber core](https://fabber-core.readthedocs.io) defines the main model fitting algorithm
    and contains a few simple generic models for testing and demonstration purposes.
+ - [Fabber ASL models](https://fabber-asl.readthedocs.io) is a set of Fabber models for
+   ASL-MRI data
  - [Fabber DCE models](https://fabber-dce.readthedocs.io) is a set of Fabber models for
    DCE-MRI data
  - [Fabber DSC models](https://fabber-dsc.readthedocs.io) is a set of Fabber models for
